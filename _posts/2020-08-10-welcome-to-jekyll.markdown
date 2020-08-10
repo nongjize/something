@@ -1,29 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "测试"
 date:   2020-08-10 16:35:25 +0800
-categories: jekyll update
+categories: 测试内容
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+ 最近，人们也越来越有兴趣利用象征性的激励措施来鼓励社会媒体中的高质量职位。 然而，随着这些系统的发展从理论走向实践，它们的发展就更加接近。 有一些挑战需要应对，我认为这些挑战尚未得到充分应对。 最近的一个例子是从理论走向部署，币乎。 一个中国平台，该平台最近发布了一个鼓励人们撰写职位的硬币机制。 基本机制(见中文这里的白皮书)是，如果平台的用户持有关键代币， 他们有能力在文章中将这些Key Token置于重要位置； 每个用户每天都可以做k"升票"，每个赞成票的用户的“权重”与赞成票的用户的利益相称。 有更多利害关系的条款似乎更加突出了。 和文章作者获得Key Token的报酬，与该文章的投票数量大致成比例。 这是一种过于简单化的做法，实际的机制已经将一些非线性的情况浸入其中。 但它们对机制的基本运作并不重要。
 
-Jekyll requires blog post files to be named according to the following format:
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
