@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-札记
+
 
 微信号：nongjize 
 
